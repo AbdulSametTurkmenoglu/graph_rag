@@ -73,6 +73,4 @@ Sorunuzu yanıtlayabilmem için lütfen ilgili bağlam bilgisini sağlayın.
 
 ![Haber Metinlerinden Çıkarılan İlişkiler Grafı](bilgi_grafi.png)
 
-### Sorgu Yanıtları
 
-Script, bilgi grafiğini kullanarak aşağıdaki gibi yanıtlar üretir:
