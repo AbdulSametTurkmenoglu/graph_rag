@@ -125,6 +125,4 @@ max_triplets_per_chunk=1  # Increase for more relationships per document
 - Start with a smaller subset (50-100 documents) for testing
 - Visualization may become cluttered with large graphs - consider filtering or sampling
 
-## 📝 License
 
-MIT License
